@@ -1,16 +1,9 @@
+
 # first_logo_ui_task
+This is a simple product detail UI
 
-A new Flutter project.
+## Screens
+![First Logo UI Task ](https://github.com/user-attachments/assets/1bd08e52-6bcd-4d03-9713-bb9d15613678)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+https://github.com/user-attachments/assets/15b35117-41e0-4bd5-8ebf-1359db9818af
